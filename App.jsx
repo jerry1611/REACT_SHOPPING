@@ -4,7 +4,7 @@ class App extends React.Component {
    render() {
       return (
          <div>
-            <button>Sumit</button>
+            <button>Submit</button>
          </div>
       );
    }
