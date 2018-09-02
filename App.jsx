@@ -5,8 +5,9 @@ class App extends React.Component {
    render() {
       return (
          <div>
-            <Search />
+            <Search  />
             <button>Submit</button>
+            <button>Reset</button>
          </div>
       );
    }
